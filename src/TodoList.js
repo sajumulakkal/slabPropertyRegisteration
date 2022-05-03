@@ -16,7 +16,7 @@ class TodoList extends Component {
             }}
             type="text"
             className="form-control"
-            placeholder="Add task..."
+            placeholder="Add your purchased property"
             required />
           <input type="submit" hidden={false} />
         </form>
