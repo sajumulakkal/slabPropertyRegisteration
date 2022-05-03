@@ -63,7 +63,7 @@ class App extends Component {
         <h1>Hello, World!</h1>
         <p>Your account: {this.state.account} and connected to network: {this.state.network}</p>
         <nav className="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
-          <a className="navbar-brand col-sm-3 col-md-2 mr-0" href="http://karmacoins.info" target="_blank" rel = "noopener noreferrer">sLabs| Property Registeration ... once Property added- To change ownership, you need to sell the property...{this.state.network}</a>
+          <a className="navbar-brand col-sm-3 col-md-2 mr-0" href="http://karmacoins.info" target="_blank" rel = "noopener noreferrer">sLabs| Property Registeration ... once Property added- To change ownership, you need to sell the property...</a>
           <ul className="navbar-nav px-3">
             <li className="nav-item text-nowrap d-none d-sm-none d-sm-block">
               <small><a className="nav-link"  href="."><span id="account"></span></a></small>
